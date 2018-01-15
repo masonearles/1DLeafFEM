@@ -1,5 +1,5 @@
 # 1DLeafFEM
-### One-dimensional leaf photosynthetic reaction and diffusion model that is parameterized using empirical light absorption profiles.
+### One-dimensional leaf photosynthetic reaction and diffusion model parameterized using empirical light absorption profiles.
 
 This is the GitHub repository associated with the paper:
 
